@@ -10,18 +10,17 @@ Installation :  pip install streamlit
 
 #### For EDA
 
-Pandas - pip install pandas
-
-Numpy - pip install numpy
+Pandas - pip install pandas  </br>
+Numpy - pip install numpy 
 
 #### For Plots
 
-Matplotlib - pip install matplotlib
+Matplotlib - pip install matplotlib </br>
 Seaborn - pip install seaborn
 
 ---
 
-Source Code : https://github.com/Shreeyash836Jejurkar/EDA-WebApp/blob/main/main.py \n
+Source Code : https://github.com/Shreeyash836Jejurkar/EDA-WebApp/blob/main/main.py </br>
 live at : https://eda-streamlit-webapp.herokuapp.com/
 
 
